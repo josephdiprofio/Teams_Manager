@@ -1,6 +1,6 @@
 ## **Teams Manager Application**
 
-Teams Manager is a locally initalized management application using a local SQL host and Java with JavaFX. The purpose of the application is to be able to manage and track statistics for sports teams. 
+Teams Manager is a locally initialized management application using a local SQL host and Java with JavaFX. The purpose of the application is to be able to manage and track statistics for sports teams. 
 
 ### **Key Features**
 - Live bookkeeping sessions
