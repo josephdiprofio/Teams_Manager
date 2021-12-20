@@ -11,4 +11,4 @@ Teams Manager is a locally initialized management application using a local SQL 
 - Styling
 - Multiple sport capability
 - Fan/Coach/Player rolls
-- Non-Local database initalization (Scaling)
+- Non-Local database initialization (Scaling)
